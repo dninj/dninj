@@ -2,5 +2,6 @@
 
 
 ## Мои навыки:
-<'img src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png width="10%">
+<'img src="![image](https://github.com/user-attachments/assets/8eac7fac-1004-4b28-8910-07bee999ee6b)
+ width="10%">
 
